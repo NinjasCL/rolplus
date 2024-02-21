@@ -1,0 +1,625 @@
+ROLPLAY.NET CARDS 3.9.0
+--------------------------
+
+Contenidos
+-----------
+
+1 - Notas de Instalacion
+2 - Manual
+	- 2.1 Introduccion
+	- 2.2 Objetivo del Juego
+	- 2.3 Comprando y creando tu baraja
+	- 2.4 Tipos de carta
+	- 2.5 Accediendo a las Partidas
+	- 2.6 Duelos
+	- 2.7 Clanes
+		- 2.7.1 Categorias
+		- 2.7.2 Caracteristicas
+		- 2.7.3 Acciones
+		- 2.7.4 Gestion de miembros
+3 - Tabla de niveles
+4 - Comandos de Chat
+5 - Historial de versiones
+6 - Proximas versiones
+
+
+
+
+1 - Notas de Instalacion
+-------------------------
+
+Para instalar el juego, descomprimir en un directorio y ejecutar rolplay.exe. Cualquier usuario y todos sus datos creados anteriormente seran respetados.
+
+
+
+
+2 - Manual
+------------
+
+2.1 Introduccion
+--------------------
+
+Rolplay.net es el juego de cartas de Rol (RPG) ambientado en la epoca fantastica y con posibilidad de jugar via Internet.
+
+Gracias a Internet el juego crece dia a dia puesto que periodicamente se crean ampliaciones 
+para el juego con nuevas cartas y mejoras que superan la jugabilidad del juego.
+
+Puedes disponer de todas la ampliaciones del juego en la pagina web http://www.rolplay.net
+
+
+2.2 Objetivo del Juego
+---------------------
+
+El objetivo del juego es el de mejorar dia a dia tu baraja y tu personaje luchando en torneos contra todo tipo de jugadores.
+
+En cada uno de los combates ganaras Oro que te posibilitara comprar y obtener cartas. Tambien iras adquiriendo Experiencia y nuevos Niveles para poder incluir en tu baraja mejores tipos de cartas.
+
+Tus herramientas para derrotar al contrario seran todo tipo de criaturas, hechizos y amuletos que podras usar gracias al poder que te otorgan las cartas de poder.
+
+
+2.4 Comprando y creando tu baraja
+----------------------------------
+
+Accediendo al menu de cartas tendras la posibilidad de comprar cartas con el Oro que poseas en ese momento.
+
+Las cartas que vayas comprando se iran añadiendo a tu reseva con posiblidad de incluir las mismas en tu baraja.
+
+Para ello, cada vez que compres un nuevo sobre, examina tus nuevas cartas y completa tu baraja como mejor creas.
+
+Tambien podras vender las cartas que no te sean utiles.
+
+
+2.5 Tipos de carta
+---------------------
+
+Todas las cartas tienen un minimo de nivel para poder ser utilizadas por tu personaje. Este coste esta indicado en la parte inferior izquierda de la carta.
+
+Actualmente existen 2 tipos de cartas en el juego:
+
+- Poder: Permite invocar cartas. Cualquier carta tiene un coste de poder para ser invocada. En el transcurso del juego deberas utilizar el poder que tengas en ese momento en juego para  poder utilizar herramientas de ataque. En la parte superior derecha de la carta se indica los puntos de poder que te ofreze la carta.
+	- Poderes avanzados:
+		- Girado de criaturas (xGCri): Cuando el poder es conjurado, seran giradas tantas  criaturas (por un turno) como el poder indique.
+
+		- Destruccion de poder, criaturas y amuletos (xDCri,xDAmu,xdPod): Cuando el poder es conjurado , tantas cartas seran destruidas como el poder indique.
+
+		- Regeneracion (+XPV): Añade puntos de vida al aprendiz que conjure el poder.
+	
+		- Drenar (-XPVOpp): Reduce la vida del oponente.
+
+		- Cartas Extra(+x Cartas): El aprendiz que conjure el poder recibira tantas cartas adicionales como indique el poder.
+
+
+- Criaturas: Son invocadas mediante poder en el transcurso del juego, y te permiten atacar y defenderte de tu adversario. Todas las criaturas tienen un coste de poder para ser invocadas como se indica en la parte inferior derecha de la carta. La fuerza de la criatura viene indicada en la parte superior derecha con dos numeros X/X. Donde el primer numero es el ataque de  la criatura y el segundo la defensa. Cuanto mas elevados sean estos numeros, mas poderosa sera la criatura.
+
+	- Habilidades de criatura
+		- Defensoras (escudo): Criaturas dotadas del poder de atacar y defender aun habiendo realizado una ataque.
+
+		- Misticas (Barita): El ataque de estas criaturas, es mistico asi que no podra ser parada por una criatura 		        normal. Solo la podra detener otra criatura mistica.
+
+		- Poder x 0: Criaturas que no exigen poder para ser invocadas.
+
+		- Berseker: (escudo/espada): Criaturas que al atacar o defender mueren.
+
+		- Defensa negativa: Criaturas que al atacar, producen un daño al aprendiz.
+		
+		- Multiples Ataques (escudo/espada)x X: La criatura puede realizar multiples ataques.
+
+		- Defensa Multiple(escudo)x X: La criatura puede defender multiples veces.
+
+		- Regeneracion (+XPV): Añade puntos de vida al aprendiz que invoca la criatura.
+	
+		- Drenar (-XPVOpp): Reduce la vida del oponente.
+
+		- Girado de criaturas (xGCri): Cuando la criatura es invocada deran giradas tantas  criaturas (por un turno) como la criatura indique.
+
+		- Destruccion de poder, criaturas y amuletos (xDCri,xDAmu,xdPod): Cuando la criatura es invocada, tantas cartas seran destruidas como la criatura indique.
+
+		- Cartas Extra(+x Cartas): El aprendiz que invoque la criatura recibira tantas cartas adicionales como indique la criatura.
+
+- Amuletos: Son invocados, al igual que las criaturas mediante poder, pero requieren poder adicional para sr activados y poder desarrollar el poder que poseen. Una vez activado el amuleto desarrollara el poder, el cual afectara dependiendo del tipo de poder que posea el amuleto (el poder de los amuletos no tiene porque ser inmediato). Las diferentes caracteristicas existentes en la rama de amuletos son las siguientes,
+
+	- Poderes de amuletos
+		- Regeneracion (+xPV): Añade PV al aprendiz que lo posee y lo activa.
+
+		- Ataque (-xPV.Opp): Resta PV al aprendiz oponente a menos que no posea amuletos defensivos. En caso de si existir, los dos amuletos se enfrentaran.
+
+		- Defensa (+xD): Añade defensa contra amuletos (solo atacantes) y contra todos los impactos generados por criaturas al aprendiz que lo posee y lo activa.
+
+		- Ataque a criaturas (+xACri): Añade ataque a todas las criaturas controladas por el Aprendiz.
+
+		- Defensa a criaturas (+xDCri): Añade defensa a todas las criaturas controladas por el Aprendiz.
+
+		- Girado de poder y criaturas (xGCri,xGPod): Cuando el amuleto es activado, al principio del turno oponente, tantas cartas seran inutilizadas (por un turno) como el amuleto indique.
+
+		- Destruccion de poder, criaturas y amuletos (xDCri,xDAmu,xdPod): Cuando el amuleto es activado, al principio del turno oponente, tantas cartas seran destruidas como el amuleto indique.
+		
+		- Defensor(C.Def): Todas las criaturas en poder del aprendiz y que se encuentren invocadas en ese momento, seran convertidas en defensoras (solo por un turno)
+
+		- Escudo Mistico(E.M.): Todas las criaturas misticas del oponente, se convertiran en criaturas normales.
+
+		- Cartas Extra(+x Cartas): El aprendiz que controle el amuleto recibira tantas cartas adicionales como indique el amuleto.
+
+
+2.5 Accediendo a las Partidas
+---------------------------
+
+Para poder enfrentarte a nuevos adversarios debes acceder al menu de partidas donde te seran mostradas las partidas que estan a la espera de jugadores.
+
+Cuando encuentres una partida con un jugador a la espera que se adecue a tu nivel, unete a la partida para enfrentarte a tu adversario.
+
+Tambien puedes crear tus propias partidas.
+
+
+2.6 Duelos
+--------------------
+
+Una vez estes en el tablero de juego, listo para luchar contra tu adversario, dependeras de la baraja que tu mismo hayas creado para ganar.
+
+Para interactuar con las cartas, bastara con un simple click para realizar cualquier accion con cualquiera de ellas. Si no puedes ver bien las cartas, puedes pulsar doble click en cualquiera de tus cartas para visualizarlas mejor. Tambien puedes moverlas a cualquier parte del tablero, arrastrandolas con el raton
+
+Cada turno del juego esta dividido en 6 fases,
+
+- Degirar cartas: Todas las cartas que estuviran giradas en tu ultimo turno, seran restauradas para poder ser usadas.
+
+- Tomar carta: La primera accion de cada fase sera coger una carta de la baraja.
+
+- Conjurar poder: Si tienes una carta de poder en tu mano, esta es tu oportunidad para ponerla en juego.
+
+- Invocar criaturas: Repasa las cartas que tengas en la mano, y en base al poder que tengas en juego, observa la posibilidad de invocar una criatura. El limite para poder invocar criaturas viene dado por los puntos de poder que tengas en juego.
+
+- Habilidades de Criaturas y Amuletos: Permite, en base al poder disponible, desarrollar las habilidades de criaturas que se encuentren invocadas o activar amuletos.
+
+- Fase de ataque: Puedes atacar con cualquiera de las criaturas que tengas en juego en este momento. Vigila los ataques ya que las cartas que ataquen, luego no podran defender. Los enfrentamientos entre criaturas estan basados en su capacidad de ataque y de defensa. Una critura con 1/1 tiene un punto de ataque y uno de defensa.
+
+De esta manera si dos cartas se enfrentan y la carta atacante tiene 2/1 y la carta que defiende tiene 1/1, la carta que ataca morira, al igual que la carta que defiende,
+
+Atacante A:2 ==> Defensor D:1
+Defensor A:1 ==> Defensor D:1
+
+Como el defensor no puede detener los 2 puntos de ataque (solo tiene 1 puntos de defensa), el punto restante descontara 1 punto de vida del total del contrincante.
+
+El combate finalizara cuando,
+
+- Un jugador se quede sin Puntos de Vida.
+- Un jugador se retire.
+- Un jugador se quede sin cartas.
+
+
+2.7 Clanes
+------------
+
+Un clan es el resultado producido a raiz de la agrupacion de un conjunto de aprendices o aspìrantes. El cometido de esta agrupacion es el de compartir conocimientos, unir fuerzas, compartir pertenencias y/o realizar confrontaciones contra otros clanes que puedan amenazar la existencia del mismo.
+
+2.7.1 Categorias
+-------------------
+
+Dentro de los miembros de los clanes existen tres categorias,
+	- Creador: Es el aspirante que crea el clan. Es el unico componente del clan con capacidad de disolber el clan. 
+	- Director: Son los aspirantes de confianza del creador del clan. Posee los mismos derechos que el creador excepto el de disober el clan.
+	- Miembros: Son los miembros del clan en si.
+
+
+2.7.2 Caracteristicas
+----------------------
+
+Ademas un clan tambien tiene las siguientes carateristicas,
+	- Siglas: Son las siglas que identifican de manera rapida al clan.
+	- Home: El enlace a la casa oficial del clan.
+	- Maximo Miembros: Indica el limite de miembros dentro de un clan.
+	- Libre Acceso: Indica si las solicitudes de los aspirantes al clan, deberan pasar por previa revision del un director o del creador y si por lo contrario, dicho aspirante pasara a pertencer al clan de manera automarica.
+
+2.7.3 Acciones
+-------------------
+
+Dentro del clan, dependiendo del rol de cada aspirante dentro del mismo, se podran realizar las siguientes acciones,
+	
+	- Oro: Es el oro que pertenece al clan. Este oro es el resultado de las donaciones y de las adquisiciones de cartas.
+	
+	- Ver movimientos: Presenta los ultimos movimientos realizados dentro del clan.
+	
+	- Entrega de Oro: Cualquier miembro del clan puede realizar una aportacion voluntaria u obligatoria.
+
+	- Toma de Oro: Solo los directores y el creador tendran derecho a tomar oro perteneciente al clan.
+
+	- Abandonar clan
+
+	- Venta de carta: La pertenencia a un clan, permite la publicacion de cartas para su venta. Una parte del beneficio (10% del total) ira destinado al clan por los servicios mientras que el oro restante ira a parar al aspirante que haya realizado a venta.
+
+2.7.4 Gestion de Miembros
+--------------------------
+
+Cuando un aspirante realiza una peticion para pertenecer a un clan, dicha peticion sera gestionada de dos maneras dependiendo de las caracteristicas del clan,
+
+	- Clan de acceso libre: La peticion se procesara automaticamente y el aspirante pasara a formar parte automaticamente del clan.
+
+	- Clan de acceso controlado: El usuario se presentara como pendiente dentro de la lista de miembros del clan hasta que un director o el creador del clan acepte o rechace la peticion.
+
+
+
+
+	
+
+3 - Tabla de niveles
+---------------------
+
+Nivel           Puntos exp.	Plus/PV	Plus/Poder
+---------------------------------------------------------
+2		200		+2	
+3		500		+2
+4		900		+2
+5		1400		+2	+2Px3
+6		1900		+2
+7		2500		+2	+2Px4
+8		3100		+2
+9		3700		+2
+10		4400		+4	+2Px5
+11		5100		+4
+12		6000		+4
+13		7000		+4	+2Px6
+14		8000		+4
+15		9000		+4	+2Px7
+16		10000		+8
+17		11000		+8
+18		12100		+8
+19		13000		+8
+20		14000		+9	+2Px10
+21		15500		+9
+22		17000		+9
+23		20000		+9
+24		23000		+9
+25		26000		+10	+2Px15
+26		27500		+10
+27		29000		+10
+28		30500		+10
+29		32000		+10
+30		33500		+10
+31		35000		+10
+32		37000		+10
+33		39000		+10
+34		41000		+10
+35		43000		+10
+36		45000		+11
+37		47000		+11
+38		49000		+11
+39		51000		+11
+40		53000		+12
+41		56000		+12
+42		59000		+12
+43		62000		+12
+44		65000		+12
+45		71000		+12
+46		74000		+13
+47		77000		+13
+48		80000		+13
+49		86000		+13
+50		100000		+13	+2Px20
+
+
+
+4 - Comandos de operador
+--------------------------
+
+Cuando un aprendiz adquiere el nivel de operador en una sala (@), adquiere a su vez la capacidad de ejecutar comandos especiales en dicha sala que pueden acarrear los siguientes efectos,
+
+"/kick usuario mensaje": Obligara al aprendiz indicado a abandonar la sala temporalmente presentando al mismo el mensaje detallado.
+
+"/ban usuario mensaje": Obligara al aprendiz indicado a abandonar la sala de manera definitiva hasta que sea permitido de nuevo su acceso, presentando al mismo el mensaje detallado.
+
+"/unban usuario": Permitira de nuevo el acceso a un aprendiz expulsado definitivamente de una sala.
+
+"/op usuario mensaje": Elevara al aprendiz indicado al grado de operador , presentando al mismo el mensaje detallado.
+
+"/deop usuario mensaje": Degredara al aprendiz indicado del grado de operador , presentando al mismo el mensaje detallado.
+
+"/superop x": Comando joke para superoperadores en canal.
+
+5 - Historial de versiones
+--------------------------
+3.8.6 19/01/2004
+
+Bug en presentacion de barajas (conn)
+Bug en presentacion de alta de usuario (conn)
+
+3.8.5 18/01/2004
+
+Reutilizacion de una sola conexion para todo el entorno
+Cambios minimos
+
+3.8.4 12/01/2004
+
+Bug de numero de cartas en gestion de cartas
+Lista de usuarios por paquetes (para evitar error 5)
+Carta de duende  y guerrero menor arreglada
+
+
+3.8.3 11/01/2004
+
+Remodelado de cliente y adaptacion al nuevo servidor.
+
+3.6.0 23/12/2002
+
+Bug en destruccion de amuletos activados
+Bug en metodo de servidor de chat (iteracion)
+Bug en socket getaway fecha peticion
+Bug en socket lstconn fecha peticion
+Bug error en socket msgping fecha peticion
+Bug de cartas invisibles en intercambios
+Bug en cartas de ataque o defensa multiple
+Cambio de algoritmo de compra de cartas
+Bug de check preparado
+Bug en socket getuserchannel y lstcon 
+
+
+3.5.2 10/12/2002
+
+Girado de crituras de Arganathor natural resuelto
+Solo Usuarios adminitados en Lista de usuarios por Clan
+Bug en invocacion de poderes especiales
+Bug de activacion de cartas amuleto
+Bug de publicacion de cartas para venta
+Bug de elfo oscuro mistico
+Bug de angel caido mistico
+Bug en check de cartas con poder 0 y habilidades especiales
+Bug en envio masivo de sock en setHabilidad
+Bug de actualizacion de oro al crear clan
+Bug de mujer muerte (desaparace,futuras versiones) 
+
+
+3.5.0 8/12/2002
+
+Clanes
+Descripcion por us
+Probador de barajas
+Nº Usuarios por canal
+Valor de cartas en intercambios
+Link generalizado de informacion de carta (Ficha de carta)
+Poderes magicos
+Criaturas Magicas
+Nuevas funcionalidades en motor de creacion de partida
+	- Nª Cartas
+	- Inicio
+Servidor dedicado de chat
+Bug de recepcion de cartas en intercambios por volumen de cartas
+Bug de recepcion de cartas en apuestas por volumen de cartas
+Bug de recepcion de cartas en estaditicas por volumen de cartas
+Bug de seleccion de cancion
+Motor de recepcion de servidores revisado
+Bug nochar en modulo de encriptacion
+Bug de adquisicion de poderes por cambio de nivel
+Bug de cartas superiores al nivel del aprendiz
+Bug de adquision de cartas superiores en apuestas
+Edad de cartas
+Bug de activacion de cartas en recepcion de cartas
+Control de xp en historial de partidas
+Servidor dedicado de stat
+Bug '5' en compra de cartas
+Seleccion automatica de canal por us
+Bug de sonido en amuletos
+Caja de seleccion de oro en intercmbios
+Bug de actualizacion de Col en endturn
+
+
+3.2.2 4/10/2002
+- No Rolplay Actua
+
+3.2.1 1/10/2002
+- Bug de usuarios repetidos en canal
+
+3.2.0 30/09/2002
+- Bug de or negativo en compra de cartas
+- Motor de actualizacion de lista usuarios
+- Motor de actualizacion pool server
+- Motor de gestor de cartas
+
+3.1.2 16/09/2002
+- Bug de set de amuletos
+- Bug de tiempo de espera en apuestas
+
+3.1.1 16/09/2002
+- Ventanas de whisper y chat de torneo
+- Bugs de creacion de partida
+- Bug de no aparicion de cartas activas
+
+3.1.0 15/09/2002
+
+- BUG en soket de usuario en login
+- Gestor de puertos y servidores dinamico, con gestion de servidor unico o balanceado
+- Modulo de estadisticas
+- Volcado de partidas online
+- Bug escape de juego
+- Perdida de xp por perdida de pv
+- Modificado el gestor de ban, origen
+- Reordenado de controles y mejorado de ordenacion de cartas de torneo
+- Numero de cartas en baraja en torneo
+- Desactivado del girado de cartas remoto
+- Bug de amuleto de rueda
+- Sockets de venta,activado y desactivado de cartas mas seguros
+- Valor añadido a las cartas
+- Bug de set de atributos de criaturas y amuletos 
+- Nueva habilidad de criatura A/Dx X
+- Ventana de final de torneo
+- Away y noaway en cambio de sala
+- Control de cantidad de una carta en baraja
+- Entrega de cartas de poder por subida de nivel
+- Modulo de apuestas en torneo
+- Control de perdida de xp por retirada por turnos
+- Email, pass, y campos editables
+- Informacion de usuario online en partida
+- Rolplay Actua 
+- Cambio de dinero en intercambios
+
+3.0.1 22/07/2002
+
+- Arreglado bug de Activacion de Amuletos
+- Arreglado Bug de foco de ventana en privados
+- Solucionado Bug de estado online de usuarios en Reto
+- Solucionado Bug de imagen (on mouse over)
+- Se añade 100 de oro a todos los usuarios (problema de cartas y minimo)
+
+3.0.0 21/07/2002
+
+- Amuletos
+	+ PV Turno
+	+ Ataque por turno 
+	+ Defensa por turno 
+	+ Ataque a todas las criaturas
+	+ Defensa a todas las criaturas
+	Girar x poder por turno al opp
+	Girar x Criaturas por turno al opp
+	Eliminar poder por turno  al opp
+	Eliminar kriatura por turno
+	Eliminar amuleto por turno
+	Todas criaturas Defensoras 
+	Escudo mistico (imposibilidad mistica)
+	+ x Cartas por turno en mano
+
+- Canales
+- Privados
+- Anti Flood y Massflood
+- Comandos de operador implementados en el chat (/op,/deop,/kick,/ban,/unban) nuevo rol (super-operador)
+- Minimo de cartas (20)
+- Inicio de partida con 7 cartas
+- Puntos de experiencia por cantidad de daño
+- Informacion de xp ganada online 
+- Ventana de respuesta con compra de cartas
+- Arreglado Bug de ataque 0
+- Zoom automatico de cartas
+- Sistema de Deteccion de doble sesion
+- Recolocado de poder mejorado
+- Recolocado de cartas remoto mejorado 
+- Bug de ultima cartas arreglado
+- Ingnora fase de habilidades y amuletos si no hay poder
+- Fix en sentencia SetplayerReady
+- Configuracion dinamica de los puertos del cliente
+- Arreglado bug de xp en intercambios
+- Arreglado Bug de recepcion de cartas
+- Arreglado Bug de recepcion de cartas en intercambio
+- Bloqueo de cartas en intercambio ... despues de aceptacion
+- Pool agil de sesiones en Server
+- Penalizacion por retirada
+- Informacion de nivel y PV online
+- Recolocado automatico de cartas
+- Arreglado bug de carta de Ordrihn (Defensa y fuerza en poder)
+- Stat con criterio de antiguedad de ultimo acceso
+- Estaditicas de retiradas/desconectadas
+- Perdida de xp por diferencia de niveles... (de mayor a menor a partir de 10)
+
+
+2.1.1 11/06/02
+
+- Arreglado error de superposicion de ventanas
+- Multiseleccion de cartas en la venta
+- Manual actualizado
+
+2.1.0 10/06/02
+
+- 55 nuevas cartas. 4ª Orda de Cartas
+- Seleccion de poder de invocacion manual
+- Solucionado bug de dobleclick en cartas del opp
+- Solucionado problema de estabilidad en la pantalla de torneo (prep.chk)
+- Visualizacion de valor de carta en pantalla de administracion de cartas
+- Nuevas habilidades de criaturas (defensa negativa y suicida o berseker)
+- Solucionado Bug en niveles 22,23,24,44
+- Solucionado Bug en cartas Virguil e inevitables (No defend)
+- Solucionado Bug en carta Hongo
+- Recalculado de PV para todos los niveles
+- Solucionado Bug en carta de Lancero Menor
+
+2.0.1 27/05/02
+
+- Solucionado Bug en Socket #Ping (joke timeout ;-))
+
+2.0.0 27/05/02
+
+- Intercambio de cartas
+- 25 nuevos niveles
+- Habilidades de criatura
+	- Ataques fisicos mentales
+	- Criaturas defensoras
+	- Incremento de habilidades
+	- PX0
+- Recolocado de cartas mejorado
+- Chat de pantalla principal mejorado y mas ligero
+- Resuelto Bug de 10 cartas
+- Resuelto Bug de Nivel 18
+- Resuelto Bug de Criatura Yogoloth
+- Nuevo dato en pantalla principal (Status TOP)
+- Partido de texto en ventanas de chat
+- Envio de cartas en un solo Socket unificado
+- Resuelto Bug de 10 cartas
+- Resuelto Bug de finalizacion de Turno
+- Zoom en dobleclick en las cartas del contrario
+
+
+1.2.1 19/05/02
+
+- Resuelto Bug de desbordamiento en recepcion de carta
+
+1.2.0 16/05/02
+
+- 28 nuevas cartas. 2ª Orda de Cartas
+- Recalculo de PV
+- Recalculo de Nivel de cartas
+- 5 cartas en mano al iniciar el Reto
+- Remodelado de funciones durante torneo (Ahora es mas estable)
+- Arreglado problema de superposicion de ventanas
+- Fix en Fomulario de cartas. Descarga del mismo durante la fase de Reto
+- Fix en Socket de respuesta de ataque cuando no existen cartas para defender. Fix en funcion de reconocimiento de usuario
+- Fix en ventana de resultado de torneo
+- Recolocado de cartas del contrario
+- Fix en la pantalla de torneo en error 9 (array fuera de indice)
+
+
+1.1.0 06/05/02
+
+- Fix en problema de resolucion de niveles de personaje
+- Actualizacion de tabla de niveles
+- Actualizacion de tabla de cartas
+- Limpieza automatica de log del juego
+- Check de integridad
+- Arreglado problema de array de controles en torneo (img_crt)
+- Arreglado problema de procedimiento de envio de Socket en caso de derrota
+- Fix en agujero de seguridad en Socket de mensajes
+- Fix en agujero de seguridad en Socket de compra de cartas
+- Fix en agujero de seguridad en Socket de venta de cartas
+- Fix en agujero de seguridad en Socket de creacion de usuario
+- Addvar Gbl_id_sesion
+- Eliminado de partidas automatico en servidor
+- Aviso de llegada y salida de usuarios
+- Actualizacion de la lista de usuario
+- Opcion de no disponibilidad en canal
+- Captura de error en recepcion de cartas
+- Resuelto error en refresco de oro disponible en la pantalla principal
+- Dobleclick para usar, no usar cartas
+- Reorganicacion de cartas en juego
+- Boton de finalizacion de turno
+
+
+1.0.0 01/05/2002
+
+- Version mas estable (Arreglado error de envio de Sockets)
+- Diversos cambios en el Look
+- Cambio en formula para Pv por nivel
+- Acceso a Player desde la pantalla de Torneo
+
+
+0.9.0 29/04/2002
+
+- Version inicial del cliente Rolplay
+
+
+
+6 - Proximas versiones
+------------------------
+
+Version 4.0: Esta version futura pretende cumplir en un futuro las siguientes funcionalidades,
+
+- Publicado dentro del manual todas las tablas y formulas de juego
+- Servidor de torneos
+- Amigos y envio y recepcion de mensajes internos
+- Cartas de Hechizo
+- Habilidades de personaje y perfiles
+- Visor de cartas por nivel y Horda
+
+
+
