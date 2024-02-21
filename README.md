@@ -5,6 +5,9 @@ See the manual:
 
 - https://ninjascl.github.io/rolplus/
 
+See the backup files:
+- https://github.com/ninjascl-archive/rolplay
+
 
 ## 🤩 Créditos
 
