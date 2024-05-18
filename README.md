@@ -13,11 +13,9 @@ See the backup files:
 
 - Juego originalmente creado por David González Bisbal (Sevia).
 
-++++
 <p>
   Hecho con <i class="fa fa-heart">&#9829;</i> por
   <a href="https://ninjas.cl">
     Ninjas.cl
   </a>.
 </p>
-++++
